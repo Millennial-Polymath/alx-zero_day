@@ -1,1 +1,1 @@
-How to open a file from within Emacs
+The command to save a file in Emacs
