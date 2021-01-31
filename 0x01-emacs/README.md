@@ -1,1 +1,1 @@
-The command to save a file in Emacs
+Basic Emacs commands
