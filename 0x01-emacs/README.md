@@ -1,0 +1,1 @@
+How to open a file from within Emacs
