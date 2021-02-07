@@ -1,1 +1,1 @@
-Source Code management, git commands
+Basic Git assignments
